@@ -1,0 +1,412 @@
+2d graphics
+
+pixel art
+
+protagonist : Adrian Skas
+
+Story:
+
+## Intro
+
+London.
+
+Private detective Adrian Skas sits alone in his apartment.
+
+A knock comes at the door.
+
+A police officer informs him that his wife has been murdered.
+
+The police believe it was a robbery gone wrong.
+
+Adrian doesn't believe them.
+
+He decides to investigate on his own.
+
+---
+
+## Mission 1 - The Black Raven Bar
+
+Objective:
+
+* Travel to the Black Raven Bar
+* Ask around for information
+
+Adrian questions several patrons.
+
+Eventually he speaks to the bartender.
+
+Bartender:
+"You aren't the first person asking about strange murders."
+
+Adrian:
+"What murders?"
+
+Bartender:
+"People disappearing. Bodies turning up all over London."
+
+"They say a serial killer is behind it."
+
+Adrian:
+"The Silent Reaper?"
+
+Bartender:
+"You've heard of him."
+
+Adrian:
+"I need information."
+
+Bartender:
+"Talk to Frank Ramirez."
+
+"He spends half his life in this bar."
+
+The player walks over to Frank.
+
+Frank:
+"What do you want?"
+
+Adrian:
+"I'm looking for the Silent Reaper."
+
+Frank:
+"I don't know anything."
+
+Adrian:
+"The bartender says otherwise."
+
+Frank tries to walk away.
+
+Adrian blocks him.
+
+Frank throws a punch.
+
+The punch accidentally hits another customer.
+
+A massive bar fight breaks out.
+
+---
+
+## Tutorial
+
+Gameplay:
+
+* Learn movement
+* Learn melee combat
+* Learn dodging
+* Learn block
+
+After the fight Adrian corners Frank.
+
+Frank:
+"Fine."
+
+"I know some people connected to him."
+
+Adrian:
+"Then you're helping me."
+
+Frank:
+"Deal."
+
+
+Frank brings Adrian to a small abandoned warehouse.
+
+Safehouse unlocked.
+
+Features:
+
+* Save game
+* Buy upgrades
+* Store evidence
+
+Frank explains that several people may have information about the Silent Reaper.
+
+Targets:
+
+* Cole Mercer
+* Michael Danilov
+* Alisha Jolie
+
+Frank:
+"Find them and make them talk."
+
+---
+
+## Mission 2 - Apartment Block One
+
+Objective:
+
+* Find Cole Mercer
+
+Adrian locates Cole.
+
+Cole immediately runs.
+
+Gameplay:
+
+* Foot chase through city streets
+* Jumping obstacles
+* Dodging traffic
+
+Cole escapes into an abandoned house.
+
+Boss Fight:
+Cole Mercer
+
+After the fight Adrian searches the area.
+
+Collectable Evidence:
+
+* Newspaper clipping mentioning recent murders
+* Note containing the initials "S.R."
+
+Before dying Cole says:
+
+Cole:
+"You don't know what you're doing..."
+
+Adrian:
+"What does that mean?"
+
+Cole dies before answering.
+
+Police arrive.
+
+Escape sequence begins.
+
+Adrian becomes wanted by police.
+
+---
+
+
+Frank:
+"Did you get anything?"
+
+Adrian:
+"Nothing useful."
+
+Frank:
+"Then we move on."
+
+
+---
+
+## Mission 3 - Apartment Block Two
+
+Objective:
+
+* Locate Michael Danilov
+
+Police patrols are now active around the city.
+
+
+Adrian and Frank travel together.
+
+Police spot them.
+
+Combat encounter.
+
+During the chaos Frank disappears.
+
+Adrian hears shouting nearby.
+
+He rushes inside a building.
+
+Michael Danilov lies dying.
+
+Frank stands nearby.
+
+Frank:
+"He attacked me."
+
+Adrian:
+"Did he say anything?"
+
+Frank:
+"No."
+
+Michael dies before speaking.
+
+Adrian helps Frank escape.
+
+---
+
+
+At the safehouse.
+
+The player can examine evidence.
+
+Adrian notices that none of the people they have encountered seemed like killers.
+
+Most appeared frightened.
+
+Frank dismisses it.
+
+Frank:
+"People get scared when they're caught."
+
+Adrian accepts the explanation.
+
+---
+
+## Mission 4 - Police Department
+
+Frank arrives with new information.
+
+Frank:
+"I heard Alisha Jolie is meeting Detective Ethan Cross."
+
+Adrian:
+"Who's Ethan Cross?"
+
+Frank:
+"The lead investigator on the Silent Reaper case."
+
+Frank claims he is injured and cannot come.
+
+Objective:
+
+* Infiltrate police headquarters
+
+Gameplay:
+
+* Stealth sections
+* Combat encounters
+
+Adrian reaches Ethan Cross's office.
+
+Inside are Ethan and Alisha.
+
+Boss Fight:
+Alisha Jolie
+
+Boss Fight:
+Ethan Cross
+
+After defeating them, Adrian searches the office.
+
+
+Objective:
+
+* Search Ethan's office
+
+Adrian discovers a hidden case file.
+
+Inside are reports, witness statements, photographs and investigation notes.
+
+Something doesn't make sense.
+
+Cole Mercer.
+
+Michael Danilov.
+
+Alisha Jolie.
+
+They were not suspects.
+
+They were witnesses.
+
+Witnesses connected to the Silent Reaper investigation.
+
+Adrian turns another page.
+
+The investigation's primary suspect:
+
+Frank Ramirez.
+
+Another page.
+
+A photograph from his wife's murder scene.
+
+Adrian freezes.
+
+Frank's name appears multiple times throughout the investigation.
+
+Everything suddenly fits together.
+
+The witnesses.
+
+The safehouse.
+
+The information.
+
+The lies.
+
+Frank never helped find the killer.
+
+He helped eliminate everyone who could identify him.
+
+---
+
+## Final Mission - The Silent reaper
+
+Objective:
+
+* Return to the safehouse
+
+Adrian arrives.
+
+Frank is gone.
+
+A nearby neighbour points toward the rooftops.
+
+Chase Gameplay:
+
+* Rooftop parkour
+* Platforming
+* Timed jumps
+
+Frank stays just out of reach.
+
+---
+
+
+The chase ends on a rooftop overlooking London.
+
+Frank:
+"You should have stopped reading."
+
+Adrian:
+"You used me."
+
+Frank:
+"I gave you what you wanted."
+
+Adrian:
+"My wife."
+
+Frank:
+"She asked too many questions."
+
+Final Boss Fight:
+Frank Ramirez
+
+Multi-phase fight:
+
+* Melee combat
+* Rooftop hazards
+* Counter attacks
+
+After the battle Frank attempts to escape.
+
+Adrian stops him.
+
+Frank falls from the rooftop.
+
+The Silent Reaper is dead.
+
+---
+
+## Ending
+
+The police arrive.
+
+The case is finally solved.
+
+But Adrian cannot celebrate.
+
+He discovers that he helped murder every witness who could have brought Frank to justice.
+
+The city remembers him as the detective who stopped the Silent Reaper.
+
+Adrian remembers himself as the man who helped him.
